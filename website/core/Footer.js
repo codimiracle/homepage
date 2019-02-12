@@ -53,7 +53,7 @@ class Footer extends React.Component {
               Stack Overflow
             </a>
             <a
-              href="https://twitter.com/"
+              href="//weibo.com/p/1005055979108276"
               target="_blank"
               rel="noreferrer noopener">
               Weibo
